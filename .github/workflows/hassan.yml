@@ -3,7 +3,7 @@ name: Hello World CI
 on:
   push:
   # If your default branch is 'main' instead of 'master', change it here:
-    branches: [ "master" ]
+    branches: [ "main" ]
 
 jobs:
   say-hello:
